@@ -15,6 +15,9 @@ Includes experiment results. Uservoice was originally a user feedback system, an
 * [Part 1](http://500.co/2013/07/18/the-data-behind-purchasing-behavior-at-uservoice-pricing-for-conversion-part-i/)
 * [Part 2]( http://500.co/2013/07/19/the-data-behind-purchasing-behavior-at-uservoice-pricing-for-conversion-part-ii/)
 
+###### GrooveHQ
+* [Pricing that worked](http://groovehq.com/blog/pricing-that-worked)
+
 ###### Dropbox
 * [Lessons learnt](http://www.slideshare.net/gueste94e4c/dropbox-startup-lessons-learned-3836587) - Slides from 2010
 
