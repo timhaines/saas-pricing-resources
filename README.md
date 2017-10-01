@@ -41,5 +41,9 @@ Includes experiment results. Uservoice was originally a user feedback system, an
 ###### GinzaMetrics
 * [Don’t Blindly Model Your SAAS Pricing on 37signals](http://www.ginzametrics.com/blog/dont-blindly-model-your-saas-pricing-on-37signals/)
 
+###### GinzaMetrics
+* [20 Pricing Models](https://taprun.com/methods/)
+* [Automated Pricing Strategy Advisor](https://taprun.com/robot/)
+
 ###### Chaotic Flow
 * [3 SAAS Sales Models](http://chaotic-flow.com/saas-startup-strategy-three-saas-sales-models/)
