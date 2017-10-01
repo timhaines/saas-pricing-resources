@@ -8,7 +8,7 @@ read some other articles that you think belong here, click on the edit button an
 
 ###### Intercom
 * [Picking your pricing model](http://insideintercom.io/picking-your-pricing-model/)
-* [Four Pricing Principals](http://insideintercom.io/four-pricing-principals-to-never-forget/)
+* [Four Pricing Principles](http://insideintercom.io/four-pricing-principals-to-never-forget/)
 
 ###### Uservoice
 Includes experiment results. Uservoice was originally a user feedback system, and they added a helpdesk system (Part 2).
